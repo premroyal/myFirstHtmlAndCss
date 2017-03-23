@@ -1,0 +1,25 @@
+*{
+     box-sizing: border-box;
+     -webkit-box-sizing:border-box;
+     -moz-box-sizing:border-box;
+     -ms-box-sizing:border-box;
+     font-family: 'Lobster', cursive;
+}
+
+.img-width{
+     width:1400px;
+}
+
+.mail{
+     font-family: 'Quicksand', sans-serif;
+}
+
+.img-padding{
+     padding-left: 67px;
+}
+
+.logo{
+     width:100px;
+     padding-top: 15px;
+}
+
